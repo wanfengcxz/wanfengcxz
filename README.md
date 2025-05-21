@@ -12,7 +12,7 @@ Hello! dear stranger
 开发过微信小程序上应小风筝；使用Springboot构建过后端应用树洞；在移动端使用Flutter重构过上应小风筝；在Linux下使用YOLO训练过神经网络；打过蓝桥杯算法比赛；
 涉猎广泛，跨度较大，如今埋头学习C++，希望自己能在这条路上有所建树。
 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python and LLM
 
 <!--
 **wanfengcxz/wanfengcxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
